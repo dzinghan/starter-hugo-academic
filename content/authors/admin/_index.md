@@ -70,7 +70,7 @@ education:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
-
+superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
