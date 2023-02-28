@@ -37,14 +37,14 @@ sections:
         - title: Research Developer Intern
           company: Nuance
           company_url: https://www.nuance.com/index.html
-          company_logo: org-gc
+          company_logo: nuance
           location: Montreal, Quebec
           date_start: '2023-05-15'
           date_end: '2023-08-01'
         - title: Undergraduate Research Assistant
           company: McGill University
-          company_url: ''
-          company_logo: org-gc
+          company_url: https://www.mcgill.ca/
+          company_logo: mcgill
           location: Montreal, Quebec
           date_start: '2021-09-01'
           date_end: '2023-05-01'
@@ -95,7 +95,7 @@ sections:
       text: |-
         Note: My first name is Jing Han (Jinghan works too) and my pronouns are she/her. Please address me by my first name.
 
-        I speak English, français, and 中文, so feel free to use the language your feel the most comfortable!
+        I speak fluently English, français, and 中文, so feel free to use the language of your choice!
       # Contact (add or remove contact options as necessary)
       email: 'jing [dot] h [dot] sun [at] mail [dot] mcgill [dot] ca'
       contact_links:
