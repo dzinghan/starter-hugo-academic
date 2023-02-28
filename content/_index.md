@@ -15,6 +15,9 @@ sections:
   - block: collection
     content:
       title: Announcements
+    design:
+      columns: '2'
+      view: card
   - block: experience
     id: experience
     content:
@@ -77,9 +80,9 @@ sections:
       #   folders:
       #     - publication
       #   exclude_featured: true
-    design:
-      columns: '2'
-      # view: citation
+    # design:
+    #   columns: '2'
+    #   view: citation
   
   - block: contact
     id: contact
