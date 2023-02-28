@@ -18,6 +18,7 @@ sections:
     content:
       title: Announcements
       text: |-
+              * ## I will be in Tokyo and Osaka (TBD) in the first two weeks of May, let's grab coffee if you are around!
               * [21/02/23] I will join [Nuance](https://www.nuance.com/index.html) this summer as a Research Developer Intern.
               * [01/02/23] I will join [Prof. Bang Liu](http://www-labs.iro.umontreal.ca/~liubang/index.html)'s group at [MILA](https://mila.quebec/en/) and [Université de Montréal](https://diro.umontreal.ca/english/home/) as a MSc student this September! 
     design:
@@ -81,6 +82,8 @@ sections:
         Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
         Coming soon...
+    design:
+      columns: 2
   # - block: collection
   #   id: publications
   #   content:
