@@ -12,7 +12,9 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: 
+  - block: collection
+    content:
+      title: Announcements
   - block: experience
     id: experience
     content:
@@ -77,7 +79,7 @@ sections:
       #   exclude_featured: true
     design:
       columns: '2'
-      view: citation
+      # view: citation
   
   - block: contact
     id: contact

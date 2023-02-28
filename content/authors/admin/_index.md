@@ -75,5 +75,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a third and final-year undergraduate student at McGill University in Joint Honours Mathematics and Computer Science. My research interests include the following topics in natural language processing: adversarial machine learning, causality, commonsense reasoning, and multi-modal learning. In September, I will join [MILA](https://mila.quebec/en/) and [Université de Montréal as a Master's](https://diro.umontreal.ca/english/home/) student under the supervision of [Prof. Bang Liu](http://www-labs.iro.umontreal.ca/~liubang/index.html).
+I am a third and final-year undergraduate student at McGill University in Joint Honours Mathematics and Computer Science. My research interests include the following topics in natural language processing: adversarial machine learning, causality, commonsense reasoning, and multi-modal learning. In September, I will join [MILA](https://mila.quebec/en/) and [Université de Montréal](https://diro.umontreal.ca/english/home/) as a MSc student under the supervision of [Prof. Bang Liu](http://www-labs.iro.umontreal.ca/~liubang/index.html).
 {style="text-align: justify;"}
