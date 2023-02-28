@@ -34,27 +34,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Research Developer Intern
+          company: Nuance
+          company_url: https://www.nuance.com/index.html
+          company_logo: org-gc
+          location: Montreal, Quebec
+          date_start: '2023-05'
+          date_end: '2023-08'
+        - title: Undergraduate Research Assistant
+          company: McGill University
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          location: Montreal, Quebec
+          date_start: '2021-09'
+          date_end: '2023-05'
         - title: Data Scientist Intern
           company: Raymond Chabot Grant Thornton
-          company_url: ''
-          company_logo: org-x
-          location: Montreal, Quenec
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_url: https://www.rcgt.com/fr/
+          company_logo: rcgt
+          location: Montreal, Quebec
+          date_start: '2021-05'
+          date_end: '2021-08'
     design:
       columns: '2'
   
