@@ -12,6 +12,7 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
+  - block: 
   - block: experience
     id: experience
     content:
@@ -84,28 +85,30 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Note: My first name is Jing Han (Jinghan works too) and my pronouns are she/her. Please address me by my first name.
+
+        I speak English, français, and 中文, so feel free to use the language your feel the most comfortable!
       # Contact (add or remove contact options as necessary)
       email: 'jing [dot] h [dot] sun [at] mail [dot] mcgill [dot] ca'
       contact_links:
-        - icon: skype
+        - icon: github
           icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+          name: My GitHub
+          link: https://github.com/dzinghan
+        - icon: linkedin
+          icon_pack: fab
+          name: My LinkedIn
+          link: https://www.linkedin.com/in/sunjinghan
       # Automatically link email and phone or display as text?
-      autolink: true
+      autolink: false
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
     design:
       columns: '2'
 ---
