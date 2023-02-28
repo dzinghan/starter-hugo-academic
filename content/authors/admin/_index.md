@@ -42,7 +42,7 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
+# social: 
   # - icon: envelope
   #   icon_pack: fas
   #   link: '/#contact'
@@ -76,7 +76,7 @@ highlight_name: true
 ---
 
 I am a third and final-year undergraduate student at McGill University in Joint Honours Mathematics and Computer Science. My research interests include the following topics in natural language processing: adversarial machine learning, causality, commonsense reasoning, and multi-modal learning. In September, I will join [MILA](https://mila.quebec/en/) and [Université de Montréal](https://diro.umontreal.ca/english/home/) as a MSc student under the supervision of [Prof. Bang Liu](http://www-labs.iro.umontreal.ca/~liubang/index.html).
+{style="text-align: justify;"}
 
 I am currently serving as the Research Representative of [McGill Computer Science Undergraduate Society](https://mcgill-csus.ca/).
-
 {style="text-align: justify;"}
