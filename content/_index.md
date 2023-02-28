@@ -40,7 +40,7 @@ sections:
           company_logo: org-gc
           location: Montreal, Quebec
           date_start: '2023-05-15'
-          date_end: '2023-07-28'
+          date_end: '2023-08-01'
         - title: Undergraduate Research Assistant
           company: McGill University
           company_url: ''
