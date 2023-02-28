@@ -73,14 +73,14 @@ sections:
   #     columns: '2'
   #     view: card
   - block: markdown
-      id: publications
-      content:
-        title: Selected Publications
-        text: |-
-          {{% callout note %}}
-          Quickly discover relevant content by [filtering publications](./publication/).
-          {{% /callout %}}
-          Coming soon...
+    id: publications
+    content:
+      title: Selected Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+        Coming soon...
   # - block: collection
   #   id: publications
   #   content:
