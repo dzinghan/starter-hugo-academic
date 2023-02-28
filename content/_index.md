@@ -39,22 +39,22 @@ sections:
           company_url: https://www.nuance.com/index.html
           company_logo: org-gc
           location: Montreal, Quebec
-          date_start: '2023-05'
-          date_end: '2023-08'
+          date_start: '2023-05-15'
+          date_end: '2023-07-28'
         - title: Undergraduate Research Assistant
           company: McGill University
           company_url: ''
           company_logo: org-gc
           location: Montreal, Quebec
-          date_start: '2021-09'
-          date_end: '2023-05'
+          date_start: '2021-09-01'
+          date_end: '2023-05-01'
         - title: Data Scientist Intern
           company: Raymond Chabot Grant Thornton
           company_url: https://www.rcgt.com/fr/
           company_logo: rcgt
           location: Montreal, Quebec
-          date_start: '2021-05'
-          date_end: '2021-08'
+          date_start: '2021-05-03'
+          date_end: '2021-08-27'
     design:
       columns: '2'
   
