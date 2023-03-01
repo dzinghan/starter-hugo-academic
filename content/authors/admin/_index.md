@@ -78,5 +78,5 @@ highlight_name: true
 I am a third and final-year undergraduate student at McGill University in Joint Honours Mathematics and Computer Science. My research interests include the following topics in natural language processing: adversarial machine learning, causality, commonsense reasoning, and multi-modal learning. In September, I will join [Université de Montréal](https://diro.umontreal.ca/english/home/) and [MILA](https://mila.quebec/en/) as a MSc student under the supervision of [Prof. Bang Liu](http://www-labs.iro.umontreal.ca/~liubang/index.html).
 {style="text-align: justify;"}
 
-I am currently serving as the Research Representative of [McGill Computer Science Undergraduate Society](https://mcgill-csus.ca/).
+I am currently serving as the Research Representative of [McGill Computer Science Undergraduate Society](https://mcgill-csus.ca/). Previously, I was a research assistant at [DMaS](https://dmas.lab.mcgill.ca/index.html) under [Prof. Benjamin Fung](https://dmas.lab.mcgill.ca/fung/index.htm), [Roger Tomlinson Lab](https://tomlinson.lab.mcgill.ca/) under Prof. Renee Sieber, and [.txtlab](https://txtlab.org/) under [Prof. Andrew Piper](https://piperlab.mcgill.ca/).
 {style="text-align: justify;"}
