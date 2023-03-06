@@ -3,7 +3,9 @@ title: "Travel"
 layout: staticpage
 ---
 
-i love discovering what the world has to offer! here are the countries and major cities i've been in my life:
+i love discovering what the world has to offer! i went on several trips alone, including my first time in europe at 16.
+
+here are the countries and major cities i've been in my life:
 
 * austria: vienna
 * belgium: brussels
@@ -11,11 +13,13 @@ i love discovering what the world has to offer! here are the countries and major
 * china: beijing (my birthplace), shanghai
 * cuba
 * france: paris
-* germany: 
+* germany: frankfurt, stuttgart
 * hungary: budapest
 * iceland: reykjavik
-* italy: rome
+* italy: naples, rome, venice
 * slovakia: bratislava
 * switzerland: zurich
 * usa: boston, dc, nyc, san diego
 * vatican
+
+happy to talk about travels!
