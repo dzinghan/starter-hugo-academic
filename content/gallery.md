@@ -3,4 +3,4 @@ title: "Gallery"
 layout: staticpage
 ---
 
-[picture with prakash](../../images/prakash.jpeg)
+![picture with prakash](../images/prakash.jpeg)
