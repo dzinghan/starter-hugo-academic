@@ -76,6 +76,7 @@ highlight_name: true
 ---
 
 I am a first year Master's student at [Université de Montréal](https://diro.umontreal.ca/english/home/) and [MILA](https://mila.quebec/en/) with [Prof. Bang Liu](http://www-labs.iro.umontreal.ca/~liubang/index.html). I recently completed my Bachelor's from McGill University in Joint Honours Mathematics and Computer Science. My research interests include the following topics in natural language processing: adversarial machine learning, causality, commonsense reasoning, and multi-modal learning.
+{style="text-align: justify;"}
 
 I am interning at Nuance Communications (Microsoft) as a research developer intern!
 {style="text-align: justify;"}
