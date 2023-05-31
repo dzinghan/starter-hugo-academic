@@ -110,7 +110,7 @@ sections:
 
         I speak fluently English, français, and 中文, so feel free to use the language of your choice!
       # Contact (add or remove contact options as necessary)
-      email: 'jing [dot] h [dot] sun [at] mail [dot] mcgill [dot] ca'
+      email: 'jing.han.sun [at] umontreal.ca'
       contact_links:
         - icon: github
           icon_pack: fab
