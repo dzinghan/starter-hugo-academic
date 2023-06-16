@@ -18,8 +18,10 @@ sections:
     content:
       title: Announcements
       text: |-
-              * [21/02/23] I will join [Nuance](https://www.nuance.com/index.html) this summer as a Research Developer Intern.
-              * [01/02/23] I will join [Prof. Bang Liu](http://www-labs.iro.umontreal.ca/~liubang/index.html)'s group at [Université de Montréal](https://diro.umontreal.ca/english/home/) and [MILA](https://mila.quebec/en/) as a MSc student this September! 
+              * [06/23] I will present a poster on common sense reasoning and human-in-the-loop at the ACL Student Research Workshop 2023.
+              * [05/23] I received the [FRQNT](https://frq.gouv.qc.ca/) Master's research scholarship!
+              * [02/23] I will join [Nuance](https://www.nuance.com/index.html) this summer as a Research Developer Intern.
+              * [02/23] I will join [Prof. Bang Liu](http://www-labs.iro.umontreal.ca/~liubang/index.html)'s group at [Université de Montréal](https://diro.umontreal.ca/english/home/) and [MILA](https://mila.quebec/en/) as a MSc student this September! 
     design:
       columns: '2'
       view: list
