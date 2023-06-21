@@ -18,7 +18,7 @@ sections:
     content:
       title: Announcements
       text: |-
-              * [06/23] I will present a poster on common sense reasoning and human-in-the-loop at the ACL Student Research Workshop 2023.
+              * [06/23] I will present a poster on common sense reasoning and human-in-the-loop at the ACL 2023 Student Research Workshop in Toronto, Canada.
               * [05/23] I received the [FRQNT](https://frq.gouv.qc.ca/) Master's research scholarship!
               * [02/23] I will join [Nuance](https://www.nuance.com/index.html) this summer as a Research Developer Intern.
               * [02/23] I will join [Prof. Bang Liu](http://www-labs.iro.umontreal.ca/~liubang/index.html)'s group at [Université de Montréal](https://diro.umontreal.ca/english/home/) and [MILA](https://mila.quebec/en/) as a MSc student this September! 
