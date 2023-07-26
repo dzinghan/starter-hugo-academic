@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Math and CS undergraduate student
+role: Master's student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: McGill University
-    url: https://www.mcgill.ca/
+  - name: Université de Montréal, Mila
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -75,7 +75,7 @@ superuser: true
 highlight_name: true
 ---
 
-I am a first year Master's student at [Université de Montréal](https://diro.umontreal.ca/english/home/) and [MILA](https://mila.quebec/en/) with [Prof. Bang Liu](http://www-labs.iro.umontreal.ca/~liubang/index.html). I recently completed my Bachelor's from McGill University in Joint Honours Mathematics and Computer Science. My research interests include the following topics in natural language processing: adversarial machine learning, causality, commonsense reasoning, and multi-modal learning.
+I am a first year Master's student at [Université de Montréal](https://diro.umontreal.ca/english/home/) and [Mila](https://mila.quebec/en/) with [Prof. Bang Liu](http://www-labs.iro.umontreal.ca/~liubang/index.html). I recently completed my Bachelor's from McGill University in Joint Honours Mathematics and Computer Science. My research interests include the following topics in natural language processing: adversarial machine learning, causality, commonsense reasoning, and multi-modal learning.
 {style="text-align: justify;"}
 
 I am interning at Nuance Communications (Microsoft) as a research developer intern!
