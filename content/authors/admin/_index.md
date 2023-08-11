@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Jing Han Sun 孙婧涵
+title: Jinghan Sun -- 孙婧涵
 
 # Full name (for SEO)
-first_name: Jing Han
+first_name: Jinghan
 last_name: Sun
 
 # Status emoji

@@ -108,7 +108,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Note: My first name is Jing Han (Jinghan works too) and my pronouns are she/her. Please address me by my first name.
+        Note: My pronouns are she/her.
 
         I speak fluently English, français, and 中文, so feel free to use the language of your choice!
       # Contact (add or remove contact options as necessary)
@@ -122,6 +122,9 @@ sections:
           icon_pack: fab
           name: My LinkedIn
           link: https://www.linkedin.com/in/sunjinghan
+        - icon: wechat
+          icon_pack: fab
+          name: "WeChat ID: jhhhsun (两只熊)"
       # Automatically link email and phone or display as text?
       autolink: false
       # Email form provider
