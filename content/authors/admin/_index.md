@@ -75,10 +75,7 @@ superuser: true
 highlight_name: true
 ---
 
-I am a first year Master's student at [Université de Montréal](https://diro.umontreal.ca/english/home/) and [Mila](https://mila.quebec/en/) with [Prof. Bang Liu](http://www-labs.iro.umontreal.ca/~liubang/index.html). I recently completed my Bachelor's from McGill University in Joint Honours Mathematics and Computer Science. My research interests include the following topics in natural language processing: adversarial machine learning, causality, commonsense reasoning, and multi-modal learning.
-{style="text-align: justify;"}
-
-I am interning at Nuance Communications (Microsoft) as a research developer intern!
+I am a first year Master's student at [Université de Montréal](https://diro.umontreal.ca/english/home/) and [Mila](https://mila.quebec/en/) with [Prof. Bang Liu](http://www-labs.iro.umontreal.ca/~liubang/index.html). I recently completed my Bachelor's from McGill University in Joint Honours Mathematics and Computer Science. My research interests include the following topics in natural language processing: adversarial machine learning, causality, commonsense reasoning, and multi-modal learning. I interned at Nuance Communications (Microsoft) as a research developer intern this summer!
 {style="text-align: justify;"}
 
 At McGill, I was the Research Representative of [McGill Computer Science Undergraduate Society](https://mcgill-csus.ca/) for the 2022-2023 school year. Previously, I was a research assistant at [DMaS](https://dmas.lab.mcgill.ca/index.html) under [Prof. Benjamin Fung](https://dmas.lab.mcgill.ca/fung/index.htm), [Roger Tomlinson Lab](https://tomlinson.lab.mcgill.ca/) under Prof. Renee Sieber, and [.txtlab](https://txtlab.org/) under [Prof. Andrew Piper](https://piperlab.mcgill.ca/).
