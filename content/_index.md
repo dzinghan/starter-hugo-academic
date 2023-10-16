@@ -119,6 +119,10 @@ sections:
           icon_pack: fab
           name: My GitHub
           link: https://github.com/dzinghan
+        - icon: scholar
+          icon_pack: fab
+          name: My Google Scholar
+          link: https://scholar.google.ca/citations?hl=en&user=Fh7KKfsAAAAJ
         - icon: linkedin
           icon_pack: fab
           name: My LinkedIn
