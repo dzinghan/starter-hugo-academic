@@ -119,7 +119,7 @@ sections:
           icon_pack: fab
           name: My GitHub
           link: https://github.com/dzinghan
-        - icon: scholar
+        - icon: graduation-cap
           icon_pack: fab
           name: My Google Scholar
           link: https://scholar.google.ca/citations?hl=en&user=Fh7KKfsAAAAJ
