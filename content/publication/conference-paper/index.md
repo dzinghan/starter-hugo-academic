@@ -40,9 +40,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-links:
-- name: arXiv
-   url: https://arxiv.org/abs/2402.13372
+# links:
+#   - name: arXiv
+#     url: https://arxiv.org/abs/2402.13372
 
 url_pdf: ''
 url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
