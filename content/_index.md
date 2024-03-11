@@ -30,7 +30,7 @@ sections:
   - block: experience
     id: experience
     content:
-      title: Experience
+      title: Work Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -41,19 +41,12 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Developer Intern
-          company: Nuance
+          company: Nuance Communications (Microsoft)
           company_url: https://www.nuance.com/index.html
           company_logo: nuance
           location: Montreal, Quebec
           date_start: '2023-05-15'
           date_end: '2023-08-01'
-        - title: Undergraduate Research Assistant
-          company: McGill University
-          company_url: https://www.mcgill.ca/
-          company_logo: mcgill
-          location: Montreal, Quebec
-          date_start: '2021-09-01'
-          date_end: '2023-05-01'
         - title: Data Scientist Intern
           company: Raymond Chabot Grant Thornton
           company_url: https://www.rcgt.com/fr/
