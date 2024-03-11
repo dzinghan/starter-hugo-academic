@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Jinghan Sun -- 孙婧涵 # Website name
+title: Jinghan Sun - 孙婧涵 # Website name
 baseURL: https://dzinghan.github.io/ # Website URL
 
 ############################

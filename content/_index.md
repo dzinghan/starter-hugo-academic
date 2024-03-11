@@ -16,7 +16,7 @@ sections:
       columns: 2
   - block: markdown
     content:
-      title: Announcements
+      title: What's new?
       text: |-
               * [02/24] My paper on dynamic common sense reasoning got accepted at LREC-COLING 2024. See you in Turin, Italy!
               * [09/23] For the fall semester, I am a teaching assistant for the course IFT 1065 (Structures discrètes).
@@ -69,18 +69,7 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
-  - block: markdown
-    id: publications
-    content:
-      title: Selected Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-        Coming soon...
-    design:
-      columns: 2
-  # - block: collection
+  # - block: markdown
   #   id: publications
   #   content:
   #     title: Selected Publications
@@ -89,13 +78,25 @@ sections:
   #       Quickly discover relevant content by [filtering publications](./publication/).
   #       {{% /callout %}}
   #       Coming soon...
-  #     filters:
-  #       folders:
-  #         - publication
-  #       # exclude_featured: true
   #   design:
-  #     columns: '2'
-  #     view: citation
+  #     columns: 2
+
+  - block: collection
+    id: publications
+    content:
+      title: Selected Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+        Coming soon...
+      filters:
+        folders:
+          - publication
+        # exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   
   - block: contact
     id: contact
