@@ -105,7 +105,7 @@ sections:
       text: |-
         Note: My pronouns are she/her.
 
-        I speak fluently English, français, and 中文, so feel free to use the language of your choice!
+        I speak fluently English, français, and 中文, so feel free to use any language to initiate!
       # Contact (add or remove contact options as necessary)
       email: 'jing.h.sun [at] mail.mcgill.ca'
       contact_links:
