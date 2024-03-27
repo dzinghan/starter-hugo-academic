@@ -20,9 +20,9 @@ late night driving is my comfort.
 i don't use caps casually as you can see on this page
 
 ## travel
-you can shoot me a message to talk about travels. i've been to many places and love tasting local cuisine, visiting attractions, and experiencing new cultures, from going on solo trips to simply visiting my extended family in beijing. i've been to 21 countries so far, but I somehow still miss 10 islands on the world geography country quiz :)
+you can shoot me a message to talk about travels. i've been to many places and love tasting local cuisine, visiting attractions, and experiencing new cultures, from going on solo trips to simply visiting my extended family in beijing. i've been to 21 countries so far (hopefully 25 before 25!)
 
-a few past international trips (including conferences, excluding spontaneous day trips to ny/vermont):
+<!-- a few past international trips (including conferences, excluding spontaneous day trips to ny/vermont):
 - beijing, tokyo, hong kong (with fam/solo, dec 23-jan 24)
 - finland, estonia, latvia, poland, denmark (solo, aug 23)
 - new york city & boston (with friends, jul 23)
@@ -30,4 +30,4 @@ a few past international trips (including conferences, excluding spontaneous day
 - europe: iceland, france, germany, switzerland, italy, vatican, austria, slovakia, belgium (solo/with fam/with friends, jul-aug 22)
 - cuba (dec 19)
 - san diego (solo, jan 18)
-- budapest, paris (solo, aug 17) *first overseas solo trip at 16*
+- budapest, paris (solo, aug 17) *first overseas solo trip at 16* -->
