@@ -17,8 +17,8 @@ sections:
   - block: markdown
     content:
       title: What's new?
-      # * [03/24] I will be interning at [IBM](https://www.ibm.com/ca-en) as a Machine Learning Developer this summer!
       text: |-
+              * [03/24] I will be interning at [IBM](https://www.ibm.com/ca-en) Consulting as a Machine Learning Developer this summer!
               * [02/24] My paper on dynamic common sense reasoning got accepted by LREC-COLING 2024. See you in Turin, Italy!
               * [09/23] For the fall semester, I am a teaching assistant for the course IFT 1065 (Structures discrètes).
               * [06/23] I will present a poster on common sense reasoning and human-in-the-loop at the ACL 2023 Student Research Workshop in Toronto, Canada.

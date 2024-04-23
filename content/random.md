@@ -7,7 +7,8 @@ layout: staticpage
 <!-- I love bears such as Rilakkuma, Brown from LINE Friends, and Kumamon. -->
 
 <!-- My favorite games are *Mario Kart 8 Deluxe* and *Super Mario Odyssey*. I'm currently playing *Luigi's Mansion 3* and *Kirby and the Forgotten Land*.  -->
-i was born in beijing but i've been living in montreal for more than 15 years. when someone asks me where i'm from, i would usually say montreal. however, people always recognize my beijing dialect when i speak chinese
+i was born in beijing but i've been living in montreal for more than 15 years. when someone asks me where i'm from, i would usually say montreal. 
+<!-- however, people always recognize my beijing dialect when i speak chinese -->
 
 i'm an istp. (it might change idk)
 
