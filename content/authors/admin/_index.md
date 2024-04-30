@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jinghan Sun (孙婧涵)
+title: Jinghan Sun
 
 # Full name (for SEO)
 first_name: Jinghan
