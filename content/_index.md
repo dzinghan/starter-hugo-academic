@@ -43,8 +43,8 @@ sections:
       items:
         - title: Machine Learning Developer Intern
           company: IBM Consulting
-          company_url: https://www.ibm.com/ca-en
-          company_logo: nuance
+          company_url: https://www.ibm.com/consulting
+          company_logo: ibm
           location: Montreal, Quebec
           date_start: '2024-05-06'
           date_end: '2024-08-30'
@@ -113,7 +113,7 @@ sections:
       text: |-
         Note: My pronouns are she/her.
 
-        I speak fluently English, français, and 中文, so feel free to use any language to initiate!
+        I speak English, français, and 中文, so feel free to use any language to initiate!
       # Contact (add or remove contact options as necessary)
       email: 'jing.h.sun [at] mail.mcgill.ca'
       contact_links:

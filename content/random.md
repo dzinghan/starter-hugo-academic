@@ -3,25 +3,17 @@ title: "random stuff"
 layout: staticpage
 ---
 
-## fun facts
+## A bit more about me
 <!-- I love bears such as Rilakkuma, Brown from LINE Friends, and Kumamon. -->
 
 <!-- My favorite games are *Mario Kart 8 Deluxe* and *Super Mario Odyssey*. I'm currently playing *Luigi's Mansion 3* and *Kirby and the Forgotten Land*.  -->
-i was born in beijing but i've been living in montreal for more than 15 years. when someone asks me where i'm from, i would usually say montreal. 
+I was born in Beijing but I've been living in Montreal for more than 15 years. When someone asks me where I'm from, I would usually say Montreal. 
 <!-- however, people always recognize my beijing dialect when i speak chinese -->
 
-i'm an istp. (it might change idk)
-
-i love nintendo games and often play mario kart 8 deluxe in my free time (i got 3 stars in every cup in every speed and i like playing online). i also completed 100% super mario odyssey and mario 64.
-
-food is good, good is food. i can't pick a favorite because everything is so good
-
-late night driving is my comfort. 
-
-i don't use caps casually as you can see on this page
+I love Nintendo games and often play Mario Kart 8 Deluxe in my free time (I got 3 stars in every cup in every speed -- I like playing online too). I also completed (100%) Super Mario Odyssey and Mario 64.
 
 ## travel
-you can shoot me a message to talk about travels. i've been to many places and love tasting local cuisine, visiting attractions, and experiencing new cultures, from going on solo trips to simply visiting my extended family in beijing. i've been to 21 countries so far (hopefully 25 before 25!)
+You can shoot me a message to talk about travels. I love tasting local cuisine, visiting attractions, and experiencing new cultures, from going on solo trips to simply visiting my extended family. I've been to 21 countries so far (hopefully 25 before 25!)
 
 <!-- a few past international trips (including conferences, excluding spontaneous day trips to ny/vermont):
 - beijing, tokyo, hong kong (with fam/solo, dec 23-jan 24)
