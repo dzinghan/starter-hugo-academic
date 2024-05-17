@@ -34,6 +34,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: MSc in Computer Science
+      institution: University of Montreal and Mila (Quebec AI Institute)
+      year: 2023
     - course: BSc in (Joint Honours) Mathematics and Computer Science
       institution: McGill University
       year: 2023
