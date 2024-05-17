@@ -44,7 +44,7 @@ sections:
         - title: Machine Learning Developer Intern
             company: IBM
             company_url: https://www.ibm.com/ca-en
-            # company_logo: nuance
+            company_logo: nuance
             location: Montreal, Quebec
             date_start: '2024-05-06'
             date_end: '2024-08-30'
