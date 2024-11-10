@@ -82,6 +82,7 @@ I'm a second-year MSc student at [Université de Montréal](https://diro.umontre
 {style="text-align: justify;"}
 
 I have previously interned at IBM, Microsoft (Nuance Communications), and Grant Thornton (RCGT).
+{style="text-align: justify;"}
 
 I graduated from McGill University with a BSc in Joint Honours Mathematics and Computer Science in May 2023. At McGill, I was the Research Representative of [McGill Computer Science Undergraduate Society](https://mcgill-csus.ca/) for the 2022-2023 school year. Previously, I was a research assistant at [DMaS](https://dmas.lab.mcgill.ca/index.html) with [Prof. Benjamin Fung](https://dmas.lab.mcgill.ca/fung/index.htm), [Roger Tomlinson Lab](https://tomlinson.lab.mcgill.ca/) with Prof. Renee Sieber, and [.txtlab](https://txtlab.org/) with [Prof. Andrew Piper](https://piperlab.mcgill.ca/).
 {style="text-align: justify;"}
