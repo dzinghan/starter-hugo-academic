@@ -3,19 +3,19 @@ title: "random stuff"
 layout: staticpage
 ---
 
-## A bit more about me
+## A bit more about me :)
 <!-- I love bears such as Rilakkuma, Brown from LINE Friends, and Kumamon. -->
 
 <!-- My favorite games are *Mario Kart 8 Deluxe* and *Super Mario Odyssey*. I'm currently playing *Luigi's Mansion 3* and *Kirby and the Forgotten Land*.  -->
-I was born in Beijing, China (shoutout to 海淀区) but I've lived in Montreal, Canada for more than 15 years, from elementary to graduate school. 
+I was born in Beijing, China and I have been living in Montreal, Canada for almost 20 years, from elementary to graduate school. 
 <!-- however, people always recognize my beijing dialect when i speak chinese -->
 
-In my free time, I do a bit of everything. Tasting new cuisine, watching YouTube videos, looking at my next travel destination, window shopping, or even playing Nintendo games on my Switch (I play Mario Kart 8 Deluxe online and completed Odyssey and Mario 64).
+In my free time, I do a bit of everything. Tasting new cuisine, watching YouTube videos, looking at my next travel destination, window shopping, or even playing video games.
 
 My Instagram: @dzinghan
 
 ## Travel
-You can shoot me a message to talk about travels. I love tasting local cuisine, visiting attractions, and experiencing new cultures, from going on solo trips to simply visiting my extended family. I've been to 25 countries since 2022 (27 in my life). If you have suggestions for cities/countries to visit feel free to share!
+You can shoot me a message to talk about travels. I love tasting local cuisine, visiting attractions, and experiencing new cultures, from going on solo trips to simply visiting my extended family. I've been to around 30 countries. If you have suggestions for cities/countries to visit feel free to share!
 
 <!-- a few past international trips (including conferences, excluding spontaneous day trips to ny/vermont):
 - beijing, tokyo, hong kong (with fam/solo, dec 23-jan 24)
