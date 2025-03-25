@@ -105,11 +105,6 @@ sections:
     design:
       columns: '2'
       view: citation
-
-  - block: markdown
-    content:
-      text: |-
-        <a href='https://mapmyvisitors.com/web/1bxxb'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=a&t=tt&d=I2M4rnHOrMhmUJaidSWEL8Kl1iHsRREXH2TjawO3x_E&co=2d78ad&ct=ffffff'/></a>
   
   - block: contact
     id: contact
@@ -150,4 +145,10 @@ sections:
       #     captcha: false
     design:
       columns: '2'
+
+  - block: markdown
+    content:
+      title: ''
+      text: |-
+        <a href='https://mapmyvisitors.com/web/1bxxb'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=a&t=tt&d=I2M4rnHOrMhmUJaidSWEL8Kl1iHsRREXH2TjawO3x_E&co=2d78ad&ct=ffffff'/></a>
 ---
