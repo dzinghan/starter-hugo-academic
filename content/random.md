@@ -7,7 +7,7 @@ layout: staticpage
 <!-- I love bears such as Rilakkuma, Brown from LINE Friends, and Kumamon. -->
 
 <!-- My favorite games are *Mario Kart 8 Deluxe* and *Super Mario Odyssey*. I'm currently playing *Luigi's Mansion 3* and *Kirby and the Forgotten Land*.  -->
-I was born in Beijing, China and I have been living in Montreal, Canada for almost 20 years, from elementary to graduate school. 
+I was born in Beijing and I have been living in Montreal (Canada) for almost 20 years, from elementary to graduate school. 
 <!-- however, people always recognize my beijing dialect when i speak chinese -->
 
 In my free time, I do a bit of everything. Tasting new cuisine, watching YouTube videos, looking at my next travel destination, window shopping, or even playing video games.
